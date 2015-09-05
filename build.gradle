@@ -24,11 +24,8 @@ repositories {
 
 	mavenLocal()
 
-	maven {
-		// Use the enterprise maven repo for everything else
-		url 'http://maven.nwie.net/enterprise'
-	}
-				
+	mavenCentral()
+
 }
 
 
