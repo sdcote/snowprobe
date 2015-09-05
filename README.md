@@ -1,6 +1,11 @@
 # Coyote SnowProbe
 
-The Coyote Monitor is a set of Coyote Monitor Probes for ServiceNow monitoring.
+The Coyote SnowProbe is a set of Coyote Monitor Probes for ServiceNow monitoring.
+
+# Project Goals
+
+  * Simple to implement on any platform - including embedded devices.
+  * Modular - easy to add more monitoring of other aspects of ServiceNow
 
 ## Prerequisites:
 
